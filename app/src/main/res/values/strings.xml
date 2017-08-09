@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">ImageGallery</string>
+
+    <string-array name="imageloader_title">
+        <item>文件夹</item>
+        <item>相  册</item>
+    </string-array>
+
+    <string name="format_time_today">今天</string>
+    <string name="format_time_yesterday">昨天</string>
+</resources>
